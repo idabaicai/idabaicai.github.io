@@ -1,0 +1,1 @@
+const e={key:"v-add85018",path:"/web-pro/",title:"web pro page",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642818279e3,contributors:[{name:"idabaicai",email:"icandebug@gmail.com",commits:1}]},filePathRelative:"web-pro/README.md"};export{e as data};
