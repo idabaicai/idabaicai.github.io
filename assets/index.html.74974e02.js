@@ -1,0 +1,1 @@
+const e={key:"v-07a983bd",path:"/web-pro/design/",title:"\u8BBE\u8BA1",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u8BBE\u8BA1\u8BED\u8A00",slug:"\u8BBE\u8BA1\u8BED\u8A00",children:[]}],git:{updatedTime:1642911711e3,contributors:[{name:"idabaicai",email:"icandebug@gmail.com",commits:1}]},filePathRelative:"web-pro/design/README.md"};export{e as data};

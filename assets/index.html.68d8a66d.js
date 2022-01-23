@@ -1,1 +1,0 @@
-import{o as e,c as a,a as t,e as o}from"./app.51a31778.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"web3-page",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#web3-page","aria-hidden":"true"},"#",-1),n=o(" web3 page"),d=[_,n];function i(p,h){return e(),a("h1",c,d)}var m=r(s,[["render",i]]);export{m as default};

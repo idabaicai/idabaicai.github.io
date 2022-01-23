@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,e as o}from"./app.942a2749.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"linux-page",tabindex:"-1"},n=t("a",{class:"header-anchor",href:"#linux-page","aria-hidden":"true"},"#",-1),_=o(" Linux page"),d=[n,_];function i(p,h){return e(),a("h1",c,d)}var u=r(s,[["render",i]]);export{u as default};
