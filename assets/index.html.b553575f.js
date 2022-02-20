@@ -1,0 +1,1 @@
+import{o as e,c as a,a as r,e as t}from"./app.202d2ff0.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"free-page",tabindex:"-1"},_=r("a",{class:"header-anchor",href:"#free-page","aria-hidden":"true"},"#",-1),d=t(" free page"),n=[_,d];function i(f,p){return e(),a("h1",c,n)}var m=o(s,[["render",i]]);export{m as default};

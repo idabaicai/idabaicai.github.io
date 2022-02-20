@@ -1,0 +1,1 @@
+import{o as e,c as o,a,e as r}from"./app.202d2ff0.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"web-pro-page",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#web-pro-page","aria-hidden":"true"},"#",-1),d=r(" web pro page"),n=[_,d];function p(i,h){return e(),o("h1",c,n)}var m=t(s,[["render",p]]);export{m as default};

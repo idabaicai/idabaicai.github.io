@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,e as o}from"./app.202d2ff0.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"fund-page",tabindex:"-1"},d=t("a",{class:"header-anchor",href:"#fund-page","aria-hidden":"true"},"#",-1),n=o(" fund page"),_=[d,n];function i(f,p){return e(),a("h1",c,_)}var l=r(s,[["render",i]]);export{l as default};
