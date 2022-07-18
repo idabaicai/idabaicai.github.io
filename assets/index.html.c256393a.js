@@ -1,0 +1,1 @@
+import{o as e,c as o,a,e as t}from"./app.e6295e3c.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"money-page",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#money-page","aria-hidden":"true"},"#",-1),_=t(" money page"),d=[n,_];function i(h,m){return e(),o("h1",c,d)}var l=r(s,[["render",i]]);export{l as default};

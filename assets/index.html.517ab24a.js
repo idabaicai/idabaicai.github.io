@@ -1,0 +1,1 @@
+import{o as e,c as o,a,e as t}from"./app.e6295e3c.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s={id:"office-page",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#office-page","aria-hidden":"true"},"#",-1),n=t(" office page"),i=[_,n];function d(f,h){return e(),o("h1",s,i)}var l=c(r,[["render",d]]);export{l as default};

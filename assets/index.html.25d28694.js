@@ -1,0 +1,1 @@
+const e={key:"v-ec25e8b0",path:"/money/",title:"money page",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658124999e3,contributors:[{name:"idabaicai",email:"icandebug@gmail.com",commits:1}]},filePathRelative:"money/README.md"};export{e as data};
